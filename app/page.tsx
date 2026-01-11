@@ -12,7 +12,7 @@ import { GaugeChart } from "@/components/gauge-chart"
 import { TechnicalAnalysis } from "@/components/technical-analysis"
 import { ImportantWords } from "@/components/important-words"
 
-const API_URL = "https://tu-proyecto-render.onrender.com"
+const API_URL = "https://spam-mail-1-nfsi.onrender.com"
 
 export default function SpamDetectorPage() {
   const [emailContent, setEmailContent] = useState("")
